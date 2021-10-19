@@ -1,0 +1,26 @@
+{
+  "name": "esm",
+  "version": "1.0.0",
+  "description": "esm netology training",
+  "main": "index.js",
+  "scripts": {
+    "start" : "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajoq/ajs-homeworks-modules-esm.git"
+  },
+  "keywords": [
+    "esm"
+  ],
+  "author": "Konstantin Beloglazov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajoq/ajs-homeworks-modules-esm/issues"
+  },
+  "homepage": "https://github.com/ajoq/ajs-homeworks-modules-esm#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
